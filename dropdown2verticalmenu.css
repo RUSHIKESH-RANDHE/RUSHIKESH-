@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: orange;
+    width: 20%;
+    height: 100%;
+}
+#cont{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding: 20px 0px;
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    border-bottom: 2px solid palevioletred;
+}
+a:hover {
+    background-color: red;
+    color: yellow;
+}
+#drop1{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: purple;
+    position: relative;
+    display: none;
+}
+#one:hover #drop1{
+    display: block;
+}
+#drop2{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: purple;
+    position: relative;
+    display: none;
+}
+#two:hover #drop2{
+    display: block;
+}
+#drop3{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: purple;
+    position: relative;
+    display: none;
+}
+#three:hover #drop3{
+    display: block;
+}

@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(orange,aqua,green);
+}
+main{
+    width: 40%;
+    background-color: aqua;
+    text-align: center;
+    border: 2px solid black;
+    position: relative;
+    margin-left: 30%;
+    background-image: linear-gradient(orange,yellow,red,green,aqua,purple,hotpink);
+}
+form{
+    color: black;
+}

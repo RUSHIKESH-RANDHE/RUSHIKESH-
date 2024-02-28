@@ -1,0 +1,30 @@
+h1{
+    color: red;
+    text-align: center;
+    font-size: 100px;
+    font-weight: 100px;
+    text-shadow: 0px 0px 20px greenyellow;
+}
+img{
+    height: 300px;
+    width: 300px;
+    border: 3px solid black;
+    border-radius: 100%;
+    margin-left: :70px;
+}
+table,td,th{
+    border: 2px solid black;
+    border-collapse: collapse; 
+
+}
+body{
+    text-align: center;
+    background-image:linear-gradient(orange,white,green);
+    height: 100vmax;
+}
+ul{
+    list-style-type: square;
+}
+
+
+

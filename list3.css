@@ -1,0 +1,32 @@
+h1{
+    color: blue;
+}
+h2{
+    color: red
+}
+ul{
+    list-style-type: square;
+}
+#chikan{
+    color: brown
+}
+.biryani{
+    color: aqua;
+}
+.biryanies{
+    color: chartreuse;
+}
+body{
+    background-image: linear-gradient(to right bottom,rgb(206, 152, 199),white,rgb(187, 199, 165));
+    height: 100vx;
+    background-repeat: no-repeat;
+    text-align: center;
+    border: 500px solid black;
+    margin: 0px;
+    border-color: orange;
+    /* background-image: url(./images/Chicken-Biryani-Recipe.webp);
+    background-repeat: no-repeat;
+    background-size: cover; */
+
+}
+

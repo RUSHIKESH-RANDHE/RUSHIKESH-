@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Protest Riot", sans-serif;
+}
+main{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
+form{
+    background-color: orange;
+    width: 25%;
+    border: 2px solid gray;
+    margin-top: 20px;
+    padding: 15px 30px 15px 30px;
+}
+img{
+    width: 100%;
+}
+input{
+    width: 95%;
+    height: 30px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+button{
+    width: 100%;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgb(91, 139, 251);
+    color: white;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+a{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+.fa-user{
+    position: absolute;
+    
+    left: 2%;
+}
+#lobo-cont{
+    position: relative;
+}

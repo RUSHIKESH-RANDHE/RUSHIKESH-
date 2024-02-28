@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    top: 0;
+    position: sticky;
+    background-color: orange;
+}
+#cont{
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+#menu{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    position: absolute;
+    display: none;
+}
+#drop:hover #menu{
+    display: block;
+    /* background-color: aqua; */  
+}
+#dropdowns{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    position: absolute;
+    display: none;   
+}
+
+#dropdown:hover #dropdowns{
+    display: block;
+}
+a:hover{
+    background-color: pink;
+    color: red
+}
+
+/* #parent{
+    background-color: red;
+    height: 200px;
+} */
+/* #parent:hover h1{
+    color: aqua;
+}
+h2:hover a{
+    color: orange;
+} */
+
+
+

@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+h1{
+    display: inline-block;    
+}
+nav{
+    display: flex;
+    justify-content: right;
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    padding: 20px;
+}
+#right{
+    display: flex;
+    gap: 20px;
+}
+header{
+    display: flex;
+    justify-content: left;
+    background-color: orange;
+    color: aqua; 
+    margin-top: 20px;
+    border-radius: 50px; 
+    padding: 20px; 
+}
+#left{
+    display: flex;
+    gap: 20px;
+}
+section{
+    display: flex;
+    justify-content: space-between;
+    background-color: lightpink;
+    color: blue;
+    margin-top: 20px;
+    border-radius: 50px;
+    padding: 20px;
+    
+}
+#center{
+    display: flex;
+    gap: 20px;
+}

@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    /* background-color: aqua; */
+}
+header{
+    /* background-color: orange; */
+    color: red;
+}
+h1{
+    color: blue;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+h2{
+    text-align: center;
+}
+h3{
+    color: brown;
+    padding-left: 10%;
+}
+#picture{
+    width: 400px;
+    height: 300px;
+    border: 5px solid yellow;
+    margin-top: 0px;
+    margin-left: 40%;
+    margin-bottom: 50%;
+}
+#right{
+    margin-left: 50%;
+    margin-bottom: 50%;
+}
+pre{
+    margin-top: 110%;
+    margin-left: 0%;
+    display: block;
+}

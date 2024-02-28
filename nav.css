@@ -1,0 +1,70 @@
+/* #mi{
+   background-color: blue;
+   width: 300px;
+   display: inline-block;
+}
+#csk{
+    background-color: yellow;
+    width: 300px;
+    display: inline;
+}
+#rcb{
+    background-color: red;
+    width: 300px;
+    display: inline-block;
+} */
+/* h1{
+    background-color: red;
+    width: 300px;
+    display: inline-block;
+} */
+/* body{
+    display: flex;
+} */
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+h1{
+    margin: 0;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: red;
+    padding: 20px;
+    margin-top: 20px;
+}
+#left{
+    display: flex;
+    gap: 20px;
+}
+#right{
+    display: flex;
+    gap: 20px;
+}
+section{
+    display: flex;
+    justify-content: center;
+    background-color: brown;
+    padding: 20px;
+    margin-top: 20px;
+}
+#cent{
+    display: flex;
+    gap: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+ 

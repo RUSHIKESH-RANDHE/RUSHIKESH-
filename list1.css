@@ -1,0 +1,24 @@
+ul{
+    list-style-type: square;
+}
+#ab {
+color: #9e0f0f;
+
+}
+#ab{
+    color: red(255, 153, 0);
+}
+/* body{
+    background-image: linear-gradient(orange,white,green) ;
+}
+body{
+    background-image: url(./images/imge.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+} */
+body{
+    background-image: linear-gradient(orange,white,green);
+    background-image: url(./images/imge.jfif);
+}
+

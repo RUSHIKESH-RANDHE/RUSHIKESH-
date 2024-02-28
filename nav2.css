@@ -1,0 +1,33 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    padding: 0px 20px;
+}
+body{
+    margin: 0;
+}
+h1{
+    margin: 20px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: orange;
+    color: red;
+    padding: 0px 20px;
+    margin-top: 20px;
+}
+body{
+    margin: 0;
+}
+#left{
+    display: flex;
+    gap: 20px;
+}
+#right{
+    display: flex;
+    gap: 20px;
+}

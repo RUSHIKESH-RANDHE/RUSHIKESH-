@@ -1,0 +1,28 @@
+table,td,th{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+/* th{
+    border: 2px solid black;
+}
+td{
+    border: 2px solid black;
+} */
+h1{
+    color: yellow;
+}
+h1,h4{
+color: red;
+}
+.ind{
+    color: blue;
+}
+#msd{
+    color:purple
+}
+*{
+    color: green;
+}
+#mi{
+    color: aqua;
+}
